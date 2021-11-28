@@ -1,7 +1,7 @@
 # Data Science
 
 There are my little projects. I just want to keep them here:
-- [Logistic Regression without ML packages](https://github.com/ashimovtemirlan/Machine_Learning/tree/master/tengriknews_binary_classification),
+- [Logistic Regression without ML packages](https://github.com/ashimovtemirlan/Machine_Learning/tree/master/tengrinews_binary_classification),
 - [Parsing data from vk.com & Simple a Social Network Analysis](https://github.com/ashimovtemirlan/Data_Science/tree/master/vk_api).
 
 There are my "cheat sheet"s (шпаргалка):
